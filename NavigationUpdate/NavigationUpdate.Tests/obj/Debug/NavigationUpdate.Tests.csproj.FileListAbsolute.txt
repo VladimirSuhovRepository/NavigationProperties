@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.Tests.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.Tests.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\obj\Debug\NavigationUpdate.Tests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\obj\Debug\NavigationUpdate.Tests.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\obj\Debug\NavigationUpdate.Tests.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.Tests.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.dll
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.SqlServer.xml
