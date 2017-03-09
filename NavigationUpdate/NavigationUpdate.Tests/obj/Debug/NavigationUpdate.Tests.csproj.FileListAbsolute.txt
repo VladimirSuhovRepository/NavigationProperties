@@ -11,3 +11,16 @@ c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\Na
 c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.xml
 c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\obj\Debug\NavigationUpdate.Tests.csprojResolveAssemblyReference.cache
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.Tests.dll.config
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.Tests.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.Tests.pdb
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\NavigationUpdate.pdb
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.xml
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\obj\Debug\NavigationUpdate.Tests.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate.Tests\obj\Debug\NavigationUpdate.Tests.pdb

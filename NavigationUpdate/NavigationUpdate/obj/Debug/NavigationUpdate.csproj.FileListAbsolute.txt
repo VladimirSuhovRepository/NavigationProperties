@@ -12,3 +12,17 @@ c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\Na
 c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.Migrations._1.resources
 c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2015\Projects\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.Migrations._43.resources
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\NavigationUpdate.dll.config
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\NavigationUpdate.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\NavigationUpdate.pdb
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\EntityFramework.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\EntityFramework.SqlServer.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\EntityFramework.xml
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\bin\Debug\EntityFramework.SqlServer.xml
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.Migrations.initial.resources
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.Migrations._1.resources
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.Migrations._43.resources
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.csproj.GenerateResource.Cache
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.dll
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.pdb
+D:\develop\examples\NavigationUpdate\NavigationUpdate\NavigationUpdate\obj\Debug\NavigationUpdate.csprojResolveAssemblyReference.cache
